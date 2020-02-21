@@ -1,2 +1,3 @@
 # JavaScript30-Challenge
-Challenge - JavaScript30 course created by @wesbos
+
+ https://belamyjoseph.github.io/JavaScript30-Challenge/.
